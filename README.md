@@ -1,5 +1,6 @@
 # employee-portal
 information of employees
+
 Overview:
 I am making simple application “Employees Portal” to list all the necessary information of employees.  In the place I work, whenever I ask to supervisor information about myself, he has to go to Human Resources to get it. I want to make it simple to give access to the supervisor or manager of the department to view the information.
 
